@@ -1,4 +1,4 @@
-# Диаграммы последовательностей
+# Диаграммы состояний
 
 # Содержание
 1. [Вход в аккаунт](#1)
@@ -8,12 +8,12 @@
 
 ### 1. Вход в аккаунт<a name="1"></a>
 
-![Вход в аккаунт](images/signInFilmSequenceDiagram.drawio.png)
+![Вход в аккаунт](images/signInAppState.png)
 
 ### 2. Действия на главном экране<a name="2"></a>
 
-![Регистрация](images/switchScreenCartSequenceDiagram.drawio.png)
+![Регистрация](images/switchScreenCartState.png)
   
 ### 3. Действия на экране списка еды<a name="3"></a>
 
-![Создание события](images/takeFoodSequenceDiagram.drawio.png)
+![Создание события](images/checkFoodState.drawio.png)
