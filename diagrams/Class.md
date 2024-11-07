@@ -1,6 +1,6 @@
 # Диаграмма классов  
 
-![Диаграмма классов](images/classDiagram.drawio.png) 
+![Диаграмма классов](images/classDiagram.png) 
 
 # Глоссарий
 
